@@ -1,0 +1,4 @@
+val time: 688.012934
+val acc: 0.955037
+val time: 410.607405
+val acc: 0.975456

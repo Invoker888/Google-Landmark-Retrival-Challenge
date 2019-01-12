@@ -1,0 +1,104 @@
+Epoch 0/5
+----------
+Train Loss: 5.7706 Acc: 0.6779
+Train time: 30788.7298
+
+Epoch 1/5
+----------
+Train Loss: 2.2578 Acc: 0.8358
+Train time: 30534.7766
+
+Epoch 2/5
+----------
+Train Loss: 0.6481 Acc: 0.8686
+Train time: 5512.6645
+
+Epoch 3/5
+----------
+Train Loss: 0.5595 Acc: 0.8828
+Train time: 5497.4251
+
+Epoch 4/5
+----------
+Train Loss: 0.5268 Acc: 0.8888
+Train time: 5487.7733
+val acc: 0.9550
+
+rank+instance
+Epoch 0/5
+----------
+Train Loss: 1.6910 Acc: 0.8892
+Train time: 17837.8045
+
+Epoch 1/5
+----------
+Train Loss: 1.4539 Acc: 0.9019
+Train time: 17878.0533
+
+Epoch 2/5
+----------
+Train Loss: 1.3253 Acc: 0.9095
+Train time: 17830.7551
+
+Epoch 3/5
+----------
+Train Loss: 1.2298 Acc: 0.9149
+Train time: 17848.0228
+
+Epoch 4/5
+----------
+Train Loss: 1.1566 Acc: 0.9196
+Train time: 17832.2112
+val acc: 0.9754
+
+Epoch 5/10
+----------
+Train Loss: 1.1478 Acc: 0.9221
+Train time: 17801.1349
+
+Epoch 6/10
+----------
+Train Loss: 1.0639 Acc: 0.9267
+Train time: 17961.6794
+
+Epoch 7/10
+----------
+Train Loss: 1.0139 Acc: 0.9300
+Train time: 18507.4903
+
+Epoch 8/10
+----------
+Train Loss: 0.9654 Acc: 0.9325
+Train time: 18009.0275
+
+Epoch 9/10
+----------
+Train Loss: 0.9317 Acc: 0.9349
+Train time: 17765.4157
+
+single ranking loss
+Epoch 0/5
+----------
+Train Loss: 0.0807 Acc: 0.7574
+Train time: 17786.6091
+
+Epoch 1/5
+----------
+Train Loss: 0.0738 Acc: 0.6546
+Train time: 17778.0323
+
+Epoch 2/5
+----------
+Train Loss: 0.0689 Acc: 0.6071
+Train time: 17790.7773
+
+Epoch 3/5
+----------
+Train Loss: 0.0654 Acc: 0.5824
+Train time: 17789.1345
+
+Epoch 4/5
+----------
+Train Loss: 0.0579 Acc: 0.5496
+Train time: 17793.8387
+
